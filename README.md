@@ -28,6 +28,7 @@ Building intelligent AI agents, LLM systems, autonomous automation, and Android 
 - AI-powered automation and testing
 - Android + AI engineering
 - Computer vision and edge AI
+- Code intelligence and software architecture analysis
 
 ## Tech Stack
 
@@ -43,6 +44,7 @@ Building intelligent AI agents, LLM systems, autonomous automation, and Android 
 
 ## Featured Projects
 
+- [CodeAtlas](https://github.com/prabhasreddy1234/codeatlas) — Local-first code intelligence and repository dependency graph for Python and Android projects
 - [Android-Automation-Agent-Using-Langgrpah](https://github.com/prabhasreddy1234/Android-Automation-Agent-Using-Langgrpah) — LangGraph-powered intelligent Android test automation
 - [BrowsingPilot](https://github.com/prabhasreddy1234/BrowsingPilot) — LLM vs TypeSafe decision-making benchmark
 - [madvid](https://github.com/prabhasreddy1234/madvid) — AI-powered marketing video generator
