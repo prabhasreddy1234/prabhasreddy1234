@@ -55,4 +55,4 @@ Building AI agents, intelligent automation systems, and mobile AI experiences th
 
 ## Open to
 
-GenAI Engineer • Agentic AI Engineer • AI/ML Engineer • AI Automation Engineer • Android + AI Engineer • Senior Android Engineer
+GenAI Engineer • Agentic AI Engineer • AI/ML Engineer • AI Automation Engineer • Android + AI Engineer
